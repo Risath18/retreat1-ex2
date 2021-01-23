@@ -18,6 +18,6 @@ Links to each team member's bio page. Add a link for each team member.
 
 [Risat](/risat.md)
 
-[Dat Lam](yourteam/datlam.md)
+[Dat Lam](/datlam.md)
 
 [Amanda Nguyen](/amandanguyen.md)
