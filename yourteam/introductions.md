@@ -18,4 +18,3 @@ Links to each team member's bio page. Add a link for each team member.
 
 [Dat Lam](/datlam.md)
 
-[Amanda Nguyen](/amandanguyen.md)
