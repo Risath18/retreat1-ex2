@@ -19,7 +19,5 @@ Links to each team member's bio page. Add a link for each team member.
 [Team Member 1](/member1.md)
 
 [Dat Lam](/datlam.md)
-<<<<<<< HEAD
 
-=======
->>>>>>> 1656b16d672fa10c51013db3be548c5665d62aec
+[Amanda Nguyen](/amandanguyen.md)
