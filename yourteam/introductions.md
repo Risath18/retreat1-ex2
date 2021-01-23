@@ -14,6 +14,7 @@ Make sure to include a quick description about your team.
 
 Links to each team member's bio page. Add a link for each team member.
 
+[Tyler Tran](/tylertran.md)
 
 [Risat](/risat.md)
 [Team Member 1](/member1.md)
